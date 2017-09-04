@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920045303136",
+    "firebase_url": "https://news-f8f87.firebaseio.com",
+    "project_id": "news-f8f87",
+    "storage_bucket": "news-f8f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920045303136:android:9399f4c96766f683",
+        "android_client_info": {
+          "package_name": "memsa.ahmed.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920045303136-oavh0kk3bio1unfqcm13siauu2ueaehe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "memsa.ahmed.news",
+            "certificate_hash": "cfaa99809c2ef82b57379cc4c77dff6698c43f9b"
+          }
+        },
+        {
+          "client_id": "920045303136-3qo5kgmedufg1c88dnqd0jmsme85f751.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEI7LRM6awHc6JcxbrWtQ9xBUkdLqEK6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920045303136-3qo5kgmedufg1c88dnqd0jmsme85f751.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

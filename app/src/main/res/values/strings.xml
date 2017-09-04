@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="title_sources" translatable="false">Sources</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_news" translatable="false">NewsActivity</string>
+    <string name="title_activity_news_details" translatable="false">NewsDetailsActivity</string>
+    <string name="share_using">Share using :</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="language">Language :</string>
+    <string name="country">Country :</string>
+    <string name="info">Information</string>
+    <string name="title_activity_intro" translatable="false">IntroActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="app_description">News app saves your time to browse more than 70 news source in one place at the same time.</string>
+    <string name="favorite_source_one">First favorite News Source</string>
+    <string name="favorite_source_two">Second favorite News Source</string>
+    <string name="favorite_source_three">Third favorite News Source</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="favorite_source_edit">Select your new favorite news source</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="image_to">Image to</string>
+    <string name="app_logo">App Logo</string>
+    <string name="open_in_browser_icon">open in browser icon</string>
+    <string name="share_icon">Share icon</string>
+    <string name="edit_favorite_source_one">Edit favorite source one</string>
+    <string name="edit_favorite_source_two">Edit favorite source two</string>
+    <string name="edit_favorite_source_three">Edit favorite source three</string>
+    <string name="default_image">Article image not found, app logo displayed</string>
+    <string name="information_icon">Information icon</string>
+    <string name="share_article_button">Share Article Button</string>
+    <string name="error_timeout">Connection Timeout Error.</string>
+    <string name="error_connection">Internet Connection Error</string>
+    <string name="error_auth">Connection AuthFailure Error</string>
+    <string name="error_server">Internal Server Error</string>
+    <string name="error_network">Network Error</string>
+    <string name="error_parse">Parse Error</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="select_different_sources">Please Select different sources</string>
+    <string name="run_app_first">You must run the app before using this widget</string>
+    <string name="retry" translatable="false">RETRY</string>
+    <string name="error_viewtype">Error viewType</string>
+</resources>

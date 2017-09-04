@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="memsa.ahmed.news.Activities.NewsDetailsActivity">
+    <item
+        android:id="@+id/action_info"
+        android:icon="@drawable/ic_info_56dp_white"
+        android:orderInCategory="100"
+        android:title="@string/info"
+        app:showAsAction="always" />
+</menu>
